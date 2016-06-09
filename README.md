@@ -18,7 +18,7 @@ GitHub organization: https://github.com/NativeScript/
     - https://github.com/NativeScript/nativescript-angular
   - Documentation: Markdown (duh!), Ruby, Shell
     - https://github.com/NativeScript/docs
-  - More: AppBuilder, Telerik Platform
+  - More: AppBuilder, Telerik Platform, etc.
 
 ## Development
   - Product management
@@ -26,7 +26,7 @@ GitHub organization: https://github.com/NativeScript/
     - GitHub issues and pull requests
   - Continuous Integration
     - Jenkins + Travis
-  - Virtual Machines, Devices, Emulators, Simulators, oh my!
+  - Native SDK's, Virtual Machines, Devices, Emulators, Simulators, oh my!
   - Quality Assurance (QA)
     - Issue status: ready for test
     - developer vs. end-to-end tests
