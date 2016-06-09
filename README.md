@@ -3,7 +3,7 @@
 Main site: https://www.nativescript.org/
 GitHub organization: https://github.com/NativeScript/
 
-Components:
+## Components
   - Runtimes
     - Android: Java, C++, JavaScript
         - https://github.com/NativeScript/android-runtime
@@ -20,7 +20,7 @@ Components:
     - https://github.com/NativeScript/docs
   - More: AppBuilder, Telerik Platform
 
-Development:
+## Development
   - Product management
   - Features and bug fixes
     - GitHub issues and pull requests
